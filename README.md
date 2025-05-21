@@ -25,7 +25,7 @@ The **E-Booking Portal** is a Python-based library management system with a MySQ
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/e-booking-portal.git
+    git clone https://github.com/krishnasree76/E-library-books-booking.git
     ```
 
 2. **Install Python Dependencies**:
@@ -50,7 +50,6 @@ The **E-Booking Portal** is a Python-based library management system with a MySQ
     python library.py
     ```
 
----
 
 ## How It Works
 
